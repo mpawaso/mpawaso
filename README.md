@@ -3,7 +3,7 @@
 - 👀 I’m interested in ...Cyber security 
 - 🌱 I’m currently learning ...cyber security engineering
 - 💞️ I’m looking to collaborate on ...security and network area
-- 📫 How to reach me ...@mpawaso
+- 📫 How to reach me ...twitter,linkedin, through @mpawaso
 
 <!---
 mpawaso/mpawaso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
